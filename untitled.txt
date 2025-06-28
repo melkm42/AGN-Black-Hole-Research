@@ -1,0 +1,3 @@
+Plot black hole mass/luminosty versus redshift
+0.25-0.35 cut to 0.28 to 0.35
+Make histograms of individual redshift bins similar to the one I have of all of them
