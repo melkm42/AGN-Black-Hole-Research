@@ -9,3 +9,6 @@ AGN-Black-Hole-Research-Full-Catalog/All_Variables_Bagpipes.h5
 AGN-Black-Hole-Research-Full-Catalog/All_Variables.h5
 AGN-Black-Hole-Research-Full-Catalog/Combined_Table_Unique_DetectID.fits
 AGN-Black-Hole-Research-Full-Catalog/Combined_Table_All_Filters.fits
+*.fits
+*.h5
+.ipynb_checkpoints/
